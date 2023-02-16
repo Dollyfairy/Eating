@@ -1,0 +1,2 @@
+b = "bed"
+print(b)

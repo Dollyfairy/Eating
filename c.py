@@ -1,2 +1,2 @@
-c = "cat"
+c = "cool"
 print(c)

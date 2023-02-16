@@ -1,2 +1,2 @@
-d = "dream"
+d = "dog"
 print(d)

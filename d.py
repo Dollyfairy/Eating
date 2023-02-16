@@ -1,2 +1,0 @@
-d = "dream"
-print(d)
